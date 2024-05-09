@@ -26,8 +26,10 @@ class USACOParser:
 
     @staticmethod
     def _clean_contest_problem(contest_problem_text) -> str:
-        contest_problem_text = contest_problem_text.replace('\leq', '<=')
+        contest_problem_text = contest_problem_text.replace('\leq', '<=') # preceeds 'le' on purpose
         contest_problem_text = contest_problem_text.replace('\geq', '>=')
+        contest_problem_text = contest_problem_text.replace('\le', '<')
+        contest_problem_text = contest_problem_text.replace('\ge', '>')
         contest_problem_text = contest_problem_text.replace('$', '')
         return contest_problem_text
 
