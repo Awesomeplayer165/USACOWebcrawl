@@ -22,11 +22,19 @@ class USACOParser:
     def get_contest_problem(contest_problem_link: str) -> str:
         website_text = requests.get(f'{USACOParser.base_url}/{contest_problem_link}').text
         soup = BeautifulSoup(website_text, 'html.parser')
-        return soup.find('div', {'class': 'problem-text'}).text
+        return USACOParser._clean_contest_problem(soup.find('div', {'class': 'problem-text'}).text)
+
+    @staticmethod
+    def _clean_contest_problem(contest_problem_text) -> str:
+        contest_problem_text = contest_problem_text.replace('\leq', '<=')
+        contest_problem_text = contest_problem_text.replace('\geq', '>=')
+        contest_problem_text = contest_problem_text.replace('$', '')
+        return contest_problem_text
+
 
 contests = USACOParser.get_contest_links()
 print(contests)
 contest_problems = USACOParser.get_contest_problems(contests[0])
-print(contest_problems)
+print(contest_problems[0])
 problem = USACOParser.get_contest_problem(contest_problems[0])
 print(problem)
