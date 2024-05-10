@@ -7,6 +7,7 @@ class USACOCrawler:
 
     @staticmethod
     def get_contest_links() -> list:
+        print("Getting contest links")
         website_text = requests.get(f'{base_url}/index.php?page=contests').text
         soup = BeautifulSoup(website_text, 'html.parser')
         allResults = soup.find_all(lambda tag: tag.name == 'a' and tag.get('href').startswith('index.php?page=') and tag.get('href').endswith('results'))
@@ -14,6 +15,7 @@ class USACOCrawler:
 
     @staticmethod
     def get_contest_problems(contest_link: str) -> list:
+        print(f"Getting contest problems for {contest_link}")
         website_text = requests.get(f'{base_url}/{contest_link}').text
         soup = BeautifulSoup(website_text, 'html.parser')
         contest_problems = soup.find_all(lambda tag: tag.name == 'a' and tag.get('href').startswith('index.php?page=viewproblem2'))
@@ -21,6 +23,7 @@ class USACOCrawler:
 
     @staticmethod
     def get_contest_problem(contest_problem_link: str) -> str:
+        print(f"Getting contest problem for {contest_problem_link}")
         website_text = requests.get(f'{base_url}/{contest_problem_link}').text
         soup = BeautifulSoup(website_text, 'html.parser')
         return USACOCrawler._clean_contest_problem(soup.find('div', {'class': 'problem-text'}).text)
@@ -54,8 +57,15 @@ class FileHelper:
         with open(self.file_name, 'r') as file:
             return json.loads(file.read()) or {}
 
+# Example Usage: Crawl all problems 2020 <-- 2024 and save to file
+for contest in USACOCrawler.get_contest_links():
+    for problem_link in USACOCrawler.get_contest_problems(contest):
+        problem = USACOCrawler.get_contest_problem(problem_link)
+        FileHelper("/Users/jacobtrentini/Development/USACOWebcrawl/usaco_problems.json").append_problem_to_file(problem, problem_link)
+
+
 # Crawler Example Usage
-#"""
+"""
 contests = USACOCrawler.get_contest_links()
 #print(contests)
 contest_problems = USACOCrawler.get_contest_problems(contests[0])
@@ -65,9 +75,8 @@ problem_two = USACOCrawler.get_contest_problem(contest_problems[1])
 #print(problem)
 
 # CSV Example Usage
-#"""
 fileHelper = FileHelper("/Users/jacobtrentini/Development/USACOWebcrawl/usaco_problems.json")
-print(fileHelper.file_contents)
 #fileHelper.append_problem_to_file(problem, contest_problems[0])
 #fileHelper.append_problem_to_file(problem_two, contest_problems[1])
 #FileHelper("/Users/jacobtrentini/Development/USACOWebcrawl/usaco_problems.json").append_problem_to_file(problem, contest_problems[0])
+"""
