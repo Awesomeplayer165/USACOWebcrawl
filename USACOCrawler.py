@@ -67,21 +67,3 @@ for contest in USACOCrawler.get_contest_links():
 
 print("Finished crawling USACO problems")
 print("Total unique problems: ", len(helper.file_contents))
-
-
-# Crawler Example Usage
-"""
-contests = USACOCrawler.get_contest_links()
-#print(contests)
-contest_problems = USACOCrawler.get_contest_problems(contests[0])
-#print(contest_problems[0])
-problem = USACOCrawler.get_contest_problem(contest_problems[0])
-problem_two = USACOCrawler.get_contest_problem(contest_problems[1])
-#print(problem)
-
-# CSV Example Usage
-fileHelper = FileHelper("/Users/jacobtrentini/Development/USACOWebcrawl/usaco_problems.json")
-#fileHelper.append_problem_to_file(problem, contest_problems[0])
-#fileHelper.append_problem_to_file(problem_two, contest_problems[1])
-#FileHelper("/Users/jacobtrentini/Development/USACOWebcrawl/usaco_problems.json").append_problem_to_file(problem, contest_problems[0])
-"""
