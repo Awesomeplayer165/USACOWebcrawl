@@ -1,0 +1,1001 @@
+Getting contest links
+========= Getting contest problems for index.php?page=open24results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1428
+Successfully wrote index.php?page=viewproblem2&cpid=1428
+Getting contest problem for index.php?page=viewproblem2&cpid=1429
+Successfully wrote index.php?page=viewproblem2&cpid=1429
+Getting contest problem for index.php?page=viewproblem2&cpid=1430
+Successfully wrote index.php?page=viewproblem2&cpid=1430
+Getting contest problem for index.php?page=viewproblem2&cpid=1425
+Successfully wrote index.php?page=viewproblem2&cpid=1425
+Getting contest problem for index.php?page=viewproblem2&cpid=1426
+Successfully wrote index.php?page=viewproblem2&cpid=1426
+Getting contest problem for index.php?page=viewproblem2&cpid=1427
+Successfully wrote index.php?page=viewproblem2&cpid=1427
+Getting contest problem for index.php?page=viewproblem2&cpid=1422
+Successfully wrote index.php?page=viewproblem2&cpid=1422
+Getting contest problem for index.php?page=viewproblem2&cpid=1423
+Successfully wrote index.php?page=viewproblem2&cpid=1423
+Getting contest problem for index.php?page=viewproblem2&cpid=1424
+Successfully wrote index.php?page=viewproblem2&cpid=1424
+Getting contest problem for index.php?page=viewproblem2&cpid=1419
+Successfully wrote index.php?page=viewproblem2&cpid=1419
+Getting contest problem for index.php?page=viewproblem2&cpid=1420
+Successfully wrote index.php?page=viewproblem2&cpid=1420
+Getting contest problem for index.php?page=viewproblem2&cpid=1421
+Successfully wrote index.php?page=viewproblem2&cpid=1421
+========= Getting contest problems for index.php?page=feb24results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1404
+Successfully wrote index.php?page=viewproblem2&cpid=1404
+Getting contest problem for index.php?page=viewproblem2&cpid=1405
+Successfully wrote index.php?page=viewproblem2&cpid=1405
+Getting contest problem for index.php?page=viewproblem2&cpid=1406
+Successfully wrote index.php?page=viewproblem2&cpid=1406
+Getting contest problem for index.php?page=viewproblem2&cpid=1401
+Successfully wrote index.php?page=viewproblem2&cpid=1401
+Getting contest problem for index.php?page=viewproblem2&cpid=1402
+Successfully wrote index.php?page=viewproblem2&cpid=1402
+Getting contest problem for index.php?page=viewproblem2&cpid=1403
+Successfully wrote index.php?page=viewproblem2&cpid=1403
+Getting contest problem for index.php?page=viewproblem2&cpid=1398
+Successfully wrote index.php?page=viewproblem2&cpid=1398
+Getting contest problem for index.php?page=viewproblem2&cpid=1399
+Successfully wrote index.php?page=viewproblem2&cpid=1399
+Getting contest problem for index.php?page=viewproblem2&cpid=1400
+Successfully wrote index.php?page=viewproblem2&cpid=1400
+Getting contest problem for index.php?page=viewproblem2&cpid=1395
+Successfully wrote index.php?page=viewproblem2&cpid=1395
+Getting contest problem for index.php?page=viewproblem2&cpid=1396
+Successfully wrote index.php?page=viewproblem2&cpid=1396
+Getting contest problem for index.php?page=viewproblem2&cpid=1397
+Successfully wrote index.php?page=viewproblem2&cpid=1397
+========= Getting contest problems for index.php?page=jan24results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1380
+Successfully wrote index.php?page=viewproblem2&cpid=1380
+Getting contest problem for index.php?page=viewproblem2&cpid=1381
+Successfully wrote index.php?page=viewproblem2&cpid=1381
+Getting contest problem for index.php?page=viewproblem2&cpid=1382
+Successfully wrote index.php?page=viewproblem2&cpid=1382
+Getting contest problem for index.php?page=viewproblem2&cpid=1377
+Successfully wrote index.php?page=viewproblem2&cpid=1377
+Getting contest problem for index.php?page=viewproblem2&cpid=1378
+Successfully wrote index.php?page=viewproblem2&cpid=1378
+Getting contest problem for index.php?page=viewproblem2&cpid=1379
+Successfully wrote index.php?page=viewproblem2&cpid=1379
+Getting contest problem for index.php?page=viewproblem2&cpid=1374
+Successfully wrote index.php?page=viewproblem2&cpid=1374
+Getting contest problem for index.php?page=viewproblem2&cpid=1375
+Successfully wrote index.php?page=viewproblem2&cpid=1375
+Getting contest problem for index.php?page=viewproblem2&cpid=1376
+Successfully wrote index.php?page=viewproblem2&cpid=1376
+Getting contest problem for index.php?page=viewproblem2&cpid=1371
+Successfully wrote index.php?page=viewproblem2&cpid=1371
+Getting contest problem for index.php?page=viewproblem2&cpid=1372
+Successfully wrote index.php?page=viewproblem2&cpid=1372
+Getting contest problem for index.php?page=viewproblem2&cpid=1373
+Successfully wrote index.php?page=viewproblem2&cpid=1373
+========= Getting contest problems for index.php?page=dec23results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1356
+Successfully wrote index.php?page=viewproblem2&cpid=1356
+Getting contest problem for index.php?page=viewproblem2&cpid=1357
+Successfully wrote index.php?page=viewproblem2&cpid=1357
+Getting contest problem for index.php?page=viewproblem2&cpid=1358
+Successfully wrote index.php?page=viewproblem2&cpid=1358
+Getting contest problem for index.php?page=viewproblem2&cpid=1353
+Successfully wrote index.php?page=viewproblem2&cpid=1353
+Getting contest problem for index.php?page=viewproblem2&cpid=1354
+Successfully wrote index.php?page=viewproblem2&cpid=1354
+Getting contest problem for index.php?page=viewproblem2&cpid=1355
+Successfully wrote index.php?page=viewproblem2&cpid=1355
+Getting contest problem for index.php?page=viewproblem2&cpid=1350
+Successfully wrote index.php?page=viewproblem2&cpid=1350
+Getting contest problem for index.php?page=viewproblem2&cpid=1351
+Successfully wrote index.php?page=viewproblem2&cpid=1351
+Getting contest problem for index.php?page=viewproblem2&cpid=1352
+Successfully wrote index.php?page=viewproblem2&cpid=1352
+Getting contest problem for index.php?page=viewproblem2&cpid=1347
+Successfully wrote index.php?page=viewproblem2&cpid=1347
+Getting contest problem for index.php?page=viewproblem2&cpid=1348
+Successfully wrote index.php?page=viewproblem2&cpid=1348
+Getting contest problem for index.php?page=viewproblem2&cpid=1349
+Successfully wrote index.php?page=viewproblem2&cpid=1349
+========= Getting contest problems for index.php?page=open23results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1332
+Successfully wrote index.php?page=viewproblem2&cpid=1332
+Getting contest problem for index.php?page=viewproblem2&cpid=1333
+Successfully wrote index.php?page=viewproblem2&cpid=1333
+Getting contest problem for index.php?page=viewproblem2&cpid=1334
+Successfully wrote index.php?page=viewproblem2&cpid=1334
+Getting contest problem for index.php?page=viewproblem2&cpid=1329
+Successfully wrote index.php?page=viewproblem2&cpid=1329
+Getting contest problem for index.php?page=viewproblem2&cpid=1330
+Successfully wrote index.php?page=viewproblem2&cpid=1330
+Getting contest problem for index.php?page=viewproblem2&cpid=1331
+Successfully wrote index.php?page=viewproblem2&cpid=1331
+Getting contest problem for index.php?page=viewproblem2&cpid=1326
+Successfully wrote index.php?page=viewproblem2&cpid=1326
+Getting contest problem for index.php?page=viewproblem2&cpid=1327
+Successfully wrote index.php?page=viewproblem2&cpid=1327
+Getting contest problem for index.php?page=viewproblem2&cpid=1328
+Successfully wrote index.php?page=viewproblem2&cpid=1328
+Getting contest problem for index.php?page=viewproblem2&cpid=1323
+Successfully wrote index.php?page=viewproblem2&cpid=1323
+Getting contest problem for index.php?page=viewproblem2&cpid=1324
+Successfully wrote index.php?page=viewproblem2&cpid=1324
+Getting contest problem for index.php?page=viewproblem2&cpid=1325
+Successfully wrote index.php?page=viewproblem2&cpid=1325
+========= Getting contest problems for index.php?page=feb23results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1308
+Successfully wrote index.php?page=viewproblem2&cpid=1308
+Getting contest problem for index.php?page=viewproblem2&cpid=1309
+Successfully wrote index.php?page=viewproblem2&cpid=1309
+Getting contest problem for index.php?page=viewproblem2&cpid=1310
+Successfully wrote index.php?page=viewproblem2&cpid=1310
+Getting contest problem for index.php?page=viewproblem2&cpid=1305
+Successfully wrote index.php?page=viewproblem2&cpid=1305
+Getting contest problem for index.php?page=viewproblem2&cpid=1306
+Successfully wrote index.php?page=viewproblem2&cpid=1306
+Getting contest problem for index.php?page=viewproblem2&cpid=1307
+Successfully wrote index.php?page=viewproblem2&cpid=1307
+Getting contest problem for index.php?page=viewproblem2&cpid=1302
+Successfully wrote index.php?page=viewproblem2&cpid=1302
+Getting contest problem for index.php?page=viewproblem2&cpid=1303
+Successfully wrote index.php?page=viewproblem2&cpid=1303
+Getting contest problem for index.php?page=viewproblem2&cpid=1304
+Successfully wrote index.php?page=viewproblem2&cpid=1304
+Getting contest problem for index.php?page=viewproblem2&cpid=1299
+Successfully wrote index.php?page=viewproblem2&cpid=1299
+Getting contest problem for index.php?page=viewproblem2&cpid=1300
+Successfully wrote index.php?page=viewproblem2&cpid=1300
+Getting contest problem for index.php?page=viewproblem2&cpid=1301
+Successfully wrote index.php?page=viewproblem2&cpid=1301
+========= Getting contest problems for index.php?page=jan23results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1284
+Successfully wrote index.php?page=viewproblem2&cpid=1284
+Getting contest problem for index.php?page=viewproblem2&cpid=1285
+Successfully wrote index.php?page=viewproblem2&cpid=1285
+Getting contest problem for index.php?page=viewproblem2&cpid=1286
+Successfully wrote index.php?page=viewproblem2&cpid=1286
+Getting contest problem for index.php?page=viewproblem2&cpid=1281
+Successfully wrote index.php?page=viewproblem2&cpid=1281
+Getting contest problem for index.php?page=viewproblem2&cpid=1282
+Successfully wrote index.php?page=viewproblem2&cpid=1282
+Getting contest problem for index.php?page=viewproblem2&cpid=1283
+Successfully wrote index.php?page=viewproblem2&cpid=1283
+Getting contest problem for index.php?page=viewproblem2&cpid=1278
+Successfully wrote index.php?page=viewproblem2&cpid=1278
+Getting contest problem for index.php?page=viewproblem2&cpid=1279
+Successfully wrote index.php?page=viewproblem2&cpid=1279
+Getting contest problem for index.php?page=viewproblem2&cpid=1280
+Successfully wrote index.php?page=viewproblem2&cpid=1280
+Getting contest problem for index.php?page=viewproblem2&cpid=1275
+Successfully wrote index.php?page=viewproblem2&cpid=1275
+Getting contest problem for index.php?page=viewproblem2&cpid=1276
+Successfully wrote index.php?page=viewproblem2&cpid=1276
+Getting contest problem for index.php?page=viewproblem2&cpid=1277
+Successfully wrote index.php?page=viewproblem2&cpid=1277
+========= Getting contest problems for index.php?page=dec22results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1260
+Successfully wrote index.php?page=viewproblem2&cpid=1260
+Getting contest problem for index.php?page=viewproblem2&cpid=1261
+Successfully wrote index.php?page=viewproblem2&cpid=1261
+Getting contest problem for index.php?page=viewproblem2&cpid=1262
+Successfully wrote index.php?page=viewproblem2&cpid=1262
+Getting contest problem for index.php?page=viewproblem2&cpid=1257
+Successfully wrote index.php?page=viewproblem2&cpid=1257
+Getting contest problem for index.php?page=viewproblem2&cpid=1258
+Successfully wrote index.php?page=viewproblem2&cpid=1258
+Getting contest problem for index.php?page=viewproblem2&cpid=1259
+Successfully wrote index.php?page=viewproblem2&cpid=1259
+Getting contest problem for index.php?page=viewproblem2&cpid=1254
+Successfully wrote index.php?page=viewproblem2&cpid=1254
+Getting contest problem for index.php?page=viewproblem2&cpid=1255
+Successfully wrote index.php?page=viewproblem2&cpid=1255
+Getting contest problem for index.php?page=viewproblem2&cpid=1256
+Successfully wrote index.php?page=viewproblem2&cpid=1256
+Getting contest problem for index.php?page=viewproblem2&cpid=1251
+Successfully wrote index.php?page=viewproblem2&cpid=1251
+Getting contest problem for index.php?page=viewproblem2&cpid=1252
+Successfully wrote index.php?page=viewproblem2&cpid=1252
+Getting contest problem for index.php?page=viewproblem2&cpid=1253
+Successfully wrote index.php?page=viewproblem2&cpid=1253
+========= Getting contest problems for index.php?page=open22results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1236
+Successfully wrote index.php?page=viewproblem2&cpid=1236
+Getting contest problem for index.php?page=viewproblem2&cpid=1237
+Successfully wrote index.php?page=viewproblem2&cpid=1237
+Getting contest problem for index.php?page=viewproblem2&cpid=1238
+Successfully wrote index.php?page=viewproblem2&cpid=1238
+Getting contest problem for index.php?page=viewproblem2&cpid=1233
+Successfully wrote index.php?page=viewproblem2&cpid=1233
+Getting contest problem for index.php?page=viewproblem2&cpid=1234
+Successfully wrote index.php?page=viewproblem2&cpid=1234
+Getting contest problem for index.php?page=viewproblem2&cpid=1235
+Successfully wrote index.php?page=viewproblem2&cpid=1235
+Getting contest problem for index.php?page=viewproblem2&cpid=1230
+Successfully wrote index.php?page=viewproblem2&cpid=1230
+Getting contest problem for index.php?page=viewproblem2&cpid=1231
+Successfully wrote index.php?page=viewproblem2&cpid=1231
+Getting contest problem for index.php?page=viewproblem2&cpid=1232
+Successfully wrote index.php?page=viewproblem2&cpid=1232
+Getting contest problem for index.php?page=viewproblem2&cpid=1227
+Successfully wrote index.php?page=viewproblem2&cpid=1227
+Getting contest problem for index.php?page=viewproblem2&cpid=1228
+Successfully wrote index.php?page=viewproblem2&cpid=1228
+Getting contest problem for index.php?page=viewproblem2&cpid=1229
+Successfully wrote index.php?page=viewproblem2&cpid=1229
+========= Getting contest problems for index.php?page=feb22results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1212
+Successfully wrote index.php?page=viewproblem2&cpid=1212
+Getting contest problem for index.php?page=viewproblem2&cpid=1213
+Successfully wrote index.php?page=viewproblem2&cpid=1213
+Getting contest problem for index.php?page=viewproblem2&cpid=1214
+Successfully wrote index.php?page=viewproblem2&cpid=1214
+Getting contest problem for index.php?page=viewproblem2&cpid=1209
+Successfully wrote index.php?page=viewproblem2&cpid=1209
+Getting contest problem for index.php?page=viewproblem2&cpid=1210
+Successfully wrote index.php?page=viewproblem2&cpid=1210
+Getting contest problem for index.php?page=viewproblem2&cpid=1211
+Successfully wrote index.php?page=viewproblem2&cpid=1211
+Getting contest problem for index.php?page=viewproblem2&cpid=1206
+Successfully wrote index.php?page=viewproblem2&cpid=1206
+Getting contest problem for index.php?page=viewproblem2&cpid=1207
+Successfully wrote index.php?page=viewproblem2&cpid=1207
+Getting contest problem for index.php?page=viewproblem2&cpid=1208
+Successfully wrote index.php?page=viewproblem2&cpid=1208
+Getting contest problem for index.php?page=viewproblem2&cpid=1203
+Successfully wrote index.php?page=viewproblem2&cpid=1203
+Getting contest problem for index.php?page=viewproblem2&cpid=1204
+Successfully wrote index.php?page=viewproblem2&cpid=1204
+Getting contest problem for index.php?page=viewproblem2&cpid=1205
+Successfully wrote index.php?page=viewproblem2&cpid=1205
+========= Getting contest problems for index.php?page=jan22results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1188
+Successfully wrote index.php?page=viewproblem2&cpid=1188
+Getting contest problem for index.php?page=viewproblem2&cpid=1189
+Successfully wrote index.php?page=viewproblem2&cpid=1189
+Getting contest problem for index.php?page=viewproblem2&cpid=1190
+Successfully wrote index.php?page=viewproblem2&cpid=1190
+Getting contest problem for index.php?page=viewproblem2&cpid=1185
+Successfully wrote index.php?page=viewproblem2&cpid=1185
+Getting contest problem for index.php?page=viewproblem2&cpid=1186
+Successfully wrote index.php?page=viewproblem2&cpid=1186
+Getting contest problem for index.php?page=viewproblem2&cpid=1187
+Successfully wrote index.php?page=viewproblem2&cpid=1187
+Getting contest problem for index.php?page=viewproblem2&cpid=1182
+Successfully wrote index.php?page=viewproblem2&cpid=1182
+Getting contest problem for index.php?page=viewproblem2&cpid=1183
+Successfully wrote index.php?page=viewproblem2&cpid=1183
+Getting contest problem for index.php?page=viewproblem2&cpid=1184
+Successfully wrote index.php?page=viewproblem2&cpid=1184
+Getting contest problem for index.php?page=viewproblem2&cpid=1179
+Successfully wrote index.php?page=viewproblem2&cpid=1179
+Getting contest problem for index.php?page=viewproblem2&cpid=1180
+Successfully wrote index.php?page=viewproblem2&cpid=1180
+Getting contest problem for index.php?page=viewproblem2&cpid=1181
+Successfully wrote index.php?page=viewproblem2&cpid=1181
+========= Getting contest problems for index.php?page=dec21results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1164
+Successfully wrote index.php?page=viewproblem2&cpid=1164
+Getting contest problem for index.php?page=viewproblem2&cpid=1165
+Successfully wrote index.php?page=viewproblem2&cpid=1165
+Getting contest problem for index.php?page=viewproblem2&cpid=1166
+Successfully wrote index.php?page=viewproblem2&cpid=1166
+Getting contest problem for index.php?page=viewproblem2&cpid=1161
+Successfully wrote index.php?page=viewproblem2&cpid=1161
+Getting contest problem for index.php?page=viewproblem2&cpid=1162
+Successfully wrote index.php?page=viewproblem2&cpid=1162
+Getting contest problem for index.php?page=viewproblem2&cpid=1163
+Successfully wrote index.php?page=viewproblem2&cpid=1163
+Getting contest problem for index.php?page=viewproblem2&cpid=1158
+Successfully wrote index.php?page=viewproblem2&cpid=1158
+Getting contest problem for index.php?page=viewproblem2&cpid=1159
+Successfully wrote index.php?page=viewproblem2&cpid=1159
+Getting contest problem for index.php?page=viewproblem2&cpid=1160
+Successfully wrote index.php?page=viewproblem2&cpid=1160
+Getting contest problem for index.php?page=viewproblem2&cpid=1155
+Successfully wrote index.php?page=viewproblem2&cpid=1155
+Getting contest problem for index.php?page=viewproblem2&cpid=1156
+Successfully wrote index.php?page=viewproblem2&cpid=1156
+Getting contest problem for index.php?page=viewproblem2&cpid=1157
+Successfully wrote index.php?page=viewproblem2&cpid=1157
+========= Getting contest problems for index.php?page=open21results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1140
+Successfully wrote index.php?page=viewproblem2&cpid=1140
+Getting contest problem for index.php?page=viewproblem2&cpid=1141
+Successfully wrote index.php?page=viewproblem2&cpid=1141
+Getting contest problem for index.php?page=viewproblem2&cpid=1142
+Successfully wrote index.php?page=viewproblem2&cpid=1142
+Getting contest problem for index.php?page=viewproblem2&cpid=1137
+Successfully wrote index.php?page=viewproblem2&cpid=1137
+Getting contest problem for index.php?page=viewproblem2&cpid=1138
+Successfully wrote index.php?page=viewproblem2&cpid=1138
+Getting contest problem for index.php?page=viewproblem2&cpid=1139
+Successfully wrote index.php?page=viewproblem2&cpid=1139
+Getting contest problem for index.php?page=viewproblem2&cpid=1134
+Successfully wrote index.php?page=viewproblem2&cpid=1134
+Getting contest problem for index.php?page=viewproblem2&cpid=1135
+Successfully wrote index.php?page=viewproblem2&cpid=1135
+Getting contest problem for index.php?page=viewproblem2&cpid=1136
+Successfully wrote index.php?page=viewproblem2&cpid=1136
+Getting contest problem for index.php?page=viewproblem2&cpid=1131
+Successfully wrote index.php?page=viewproblem2&cpid=1131
+Getting contest problem for index.php?page=viewproblem2&cpid=1132
+Successfully wrote index.php?page=viewproblem2&cpid=1132
+Getting contest problem for index.php?page=viewproblem2&cpid=1133
+Successfully wrote index.php?page=viewproblem2&cpid=1133
+========= Getting contest problems for index.php?page=feb21results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1116
+Successfully wrote index.php?page=viewproblem2&cpid=1116
+Getting contest problem for index.php?page=viewproblem2&cpid=1117
+Successfully wrote index.php?page=viewproblem2&cpid=1117
+Getting contest problem for index.php?page=viewproblem2&cpid=1118
+Successfully wrote index.php?page=viewproblem2&cpid=1118
+Getting contest problem for index.php?page=viewproblem2&cpid=1113
+Successfully wrote index.php?page=viewproblem2&cpid=1113
+Getting contest problem for index.php?page=viewproblem2&cpid=1114
+Successfully wrote index.php?page=viewproblem2&cpid=1114
+Getting contest problem for index.php?page=viewproblem2&cpid=1115
+Successfully wrote index.php?page=viewproblem2&cpid=1115
+Getting contest problem for index.php?page=viewproblem2&cpid=1110
+Successfully wrote index.php?page=viewproblem2&cpid=1110
+Getting contest problem for index.php?page=viewproblem2&cpid=1111
+Successfully wrote index.php?page=viewproblem2&cpid=1111
+Getting contest problem for index.php?page=viewproblem2&cpid=1112
+Successfully wrote index.php?page=viewproblem2&cpid=1112
+Getting contest problem for index.php?page=viewproblem2&cpid=1107
+Successfully wrote index.php?page=viewproblem2&cpid=1107
+Getting contest problem for index.php?page=viewproblem2&cpid=1108
+Successfully wrote index.php?page=viewproblem2&cpid=1108
+Getting contest problem for index.php?page=viewproblem2&cpid=1109
+Successfully wrote index.php?page=viewproblem2&cpid=1109
+========= Getting contest problems for index.php?page=jan21results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1092
+Successfully wrote index.php?page=viewproblem2&cpid=1092
+Getting contest problem for index.php?page=viewproblem2&cpid=1093
+Successfully wrote index.php?page=viewproblem2&cpid=1093
+Getting contest problem for index.php?page=viewproblem2&cpid=1094
+Successfully wrote index.php?page=viewproblem2&cpid=1094
+Getting contest problem for index.php?page=viewproblem2&cpid=1089
+Successfully wrote index.php?page=viewproblem2&cpid=1089
+Getting contest problem for index.php?page=viewproblem2&cpid=1090
+Successfully wrote index.php?page=viewproblem2&cpid=1090
+Getting contest problem for index.php?page=viewproblem2&cpid=1091
+Successfully wrote index.php?page=viewproblem2&cpid=1091
+Getting contest problem for index.php?page=viewproblem2&cpid=1086
+Successfully wrote index.php?page=viewproblem2&cpid=1086
+Getting contest problem for index.php?page=viewproblem2&cpid=1087
+Successfully wrote index.php?page=viewproblem2&cpid=1087
+Getting contest problem for index.php?page=viewproblem2&cpid=1088
+Successfully wrote index.php?page=viewproblem2&cpid=1088
+Getting contest problem for index.php?page=viewproblem2&cpid=1083
+Successfully wrote index.php?page=viewproblem2&cpid=1083
+Getting contest problem for index.php?page=viewproblem2&cpid=1084
+Successfully wrote index.php?page=viewproblem2&cpid=1084
+Getting contest problem for index.php?page=viewproblem2&cpid=1085
+Successfully wrote index.php?page=viewproblem2&cpid=1085
+========= Getting contest problems for index.php?page=dec20results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1068
+Successfully wrote index.php?page=viewproblem2&cpid=1068
+Getting contest problem for index.php?page=viewproblem2&cpid=1069
+Successfully wrote index.php?page=viewproblem2&cpid=1069
+Getting contest problem for index.php?page=viewproblem2&cpid=1070
+Successfully wrote index.php?page=viewproblem2&cpid=1070
+Getting contest problem for index.php?page=viewproblem2&cpid=1065
+Successfully wrote index.php?page=viewproblem2&cpid=1065
+Getting contest problem for index.php?page=viewproblem2&cpid=1066
+Successfully wrote index.php?page=viewproblem2&cpid=1066
+Getting contest problem for index.php?page=viewproblem2&cpid=1067
+Successfully wrote index.php?page=viewproblem2&cpid=1067
+Getting contest problem for index.php?page=viewproblem2&cpid=1062
+Successfully wrote index.php?page=viewproblem2&cpid=1062
+Getting contest problem for index.php?page=viewproblem2&cpid=1063
+Successfully wrote index.php?page=viewproblem2&cpid=1063
+Getting contest problem for index.php?page=viewproblem2&cpid=1064
+Successfully wrote index.php?page=viewproblem2&cpid=1064
+Getting contest problem for index.php?page=viewproblem2&cpid=1059
+Successfully wrote index.php?page=viewproblem2&cpid=1059
+Getting contest problem for index.php?page=viewproblem2&cpid=1060
+Successfully wrote index.php?page=viewproblem2&cpid=1060
+Getting contest problem for index.php?page=viewproblem2&cpid=1061
+Successfully wrote index.php?page=viewproblem2&cpid=1061
+========= Getting contest problems for index.php?page=open20results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1044
+Successfully wrote index.php?page=viewproblem2&cpid=1044
+Getting contest problem for index.php?page=viewproblem2&cpid=1045
+Successfully wrote index.php?page=viewproblem2&cpid=1045
+Getting contest problem for index.php?page=viewproblem2&cpid=1046
+Successfully wrote index.php?page=viewproblem2&cpid=1046
+Getting contest problem for index.php?page=viewproblem2&cpid=1041
+Successfully wrote index.php?page=viewproblem2&cpid=1041
+Getting contest problem for index.php?page=viewproblem2&cpid=1042
+Successfully wrote index.php?page=viewproblem2&cpid=1042
+Getting contest problem for index.php?page=viewproblem2&cpid=1043
+Successfully wrote index.php?page=viewproblem2&cpid=1043
+Getting contest problem for index.php?page=viewproblem2&cpid=1038
+Successfully wrote index.php?page=viewproblem2&cpid=1038
+Getting contest problem for index.php?page=viewproblem2&cpid=1039
+Successfully wrote index.php?page=viewproblem2&cpid=1039
+Getting contest problem for index.php?page=viewproblem2&cpid=1040
+Successfully wrote index.php?page=viewproblem2&cpid=1040
+Getting contest problem for index.php?page=viewproblem2&cpid=1035
+Successfully wrote index.php?page=viewproblem2&cpid=1035
+Getting contest problem for index.php?page=viewproblem2&cpid=1036
+Successfully wrote index.php?page=viewproblem2&cpid=1036
+Getting contest problem for index.php?page=viewproblem2&cpid=1037
+Successfully wrote index.php?page=viewproblem2&cpid=1037
+========= Getting contest problems for index.php?page=feb20results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=1020
+Successfully wrote index.php?page=viewproblem2&cpid=1020
+Getting contest problem for index.php?page=viewproblem2&cpid=1021
+Successfully wrote index.php?page=viewproblem2&cpid=1021
+Getting contest problem for index.php?page=viewproblem2&cpid=1022
+Successfully wrote index.php?page=viewproblem2&cpid=1022
+Getting contest problem for index.php?page=viewproblem2&cpid=1017
+Successfully wrote index.php?page=viewproblem2&cpid=1017
+Getting contest problem for index.php?page=viewproblem2&cpid=1018
+Successfully wrote index.php?page=viewproblem2&cpid=1018
+Getting contest problem for index.php?page=viewproblem2&cpid=1019
+Successfully wrote index.php?page=viewproblem2&cpid=1019
+Getting contest problem for index.php?page=viewproblem2&cpid=1014
+Successfully wrote index.php?page=viewproblem2&cpid=1014
+Getting contest problem for index.php?page=viewproblem2&cpid=1015
+Successfully wrote index.php?page=viewproblem2&cpid=1015
+Getting contest problem for index.php?page=viewproblem2&cpid=1016
+Successfully wrote index.php?page=viewproblem2&cpid=1016
+Getting contest problem for index.php?page=viewproblem2&cpid=1011
+Successfully wrote index.php?page=viewproblem2&cpid=1011
+Getting contest problem for index.php?page=viewproblem2&cpid=1012
+Successfully wrote index.php?page=viewproblem2&cpid=1012
+Getting contest problem for index.php?page=viewproblem2&cpid=1013
+Successfully wrote index.php?page=viewproblem2&cpid=1013
+========= Getting contest problems for index.php?page=jan20results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=996
+Successfully wrote index.php?page=viewproblem2&cpid=996
+Getting contest problem for index.php?page=viewproblem2&cpid=997
+Successfully wrote index.php?page=viewproblem2&cpid=997
+Getting contest problem for index.php?page=viewproblem2&cpid=998
+Successfully wrote index.php?page=viewproblem2&cpid=998
+Getting contest problem for index.php?page=viewproblem2&cpid=993
+Successfully wrote index.php?page=viewproblem2&cpid=993
+Getting contest problem for index.php?page=viewproblem2&cpid=994
+Successfully wrote index.php?page=viewproblem2&cpid=994
+Getting contest problem for index.php?page=viewproblem2&cpid=995
+Successfully wrote index.php?page=viewproblem2&cpid=995
+Getting contest problem for index.php?page=viewproblem2&cpid=990
+Successfully wrote index.php?page=viewproblem2&cpid=990
+Getting contest problem for index.php?page=viewproblem2&cpid=991
+Successfully wrote index.php?page=viewproblem2&cpid=991
+Getting contest problem for index.php?page=viewproblem2&cpid=992
+Successfully wrote index.php?page=viewproblem2&cpid=992
+Getting contest problem for index.php?page=viewproblem2&cpid=987
+Successfully wrote index.php?page=viewproblem2&cpid=987
+Getting contest problem for index.php?page=viewproblem2&cpid=988
+Successfully wrote index.php?page=viewproblem2&cpid=988
+Getting contest problem for index.php?page=viewproblem2&cpid=989
+Successfully wrote index.php?page=viewproblem2&cpid=989
+========= Getting contest problems for index.php?page=dec19results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=972
+Successfully wrote index.php?page=viewproblem2&cpid=972
+Getting contest problem for index.php?page=viewproblem2&cpid=973
+Successfully wrote index.php?page=viewproblem2&cpid=973
+Getting contest problem for index.php?page=viewproblem2&cpid=974
+Successfully wrote index.php?page=viewproblem2&cpid=974
+Getting contest problem for index.php?page=viewproblem2&cpid=969
+Successfully wrote index.php?page=viewproblem2&cpid=969
+Getting contest problem for index.php?page=viewproblem2&cpid=970
+Successfully wrote index.php?page=viewproblem2&cpid=970
+Getting contest problem for index.php?page=viewproblem2&cpid=971
+Successfully wrote index.php?page=viewproblem2&cpid=971
+Getting contest problem for index.php?page=viewproblem2&cpid=966
+Successfully wrote index.php?page=viewproblem2&cpid=966
+Getting contest problem for index.php?page=viewproblem2&cpid=967
+Successfully wrote index.php?page=viewproblem2&cpid=967
+Getting contest problem for index.php?page=viewproblem2&cpid=968
+Successfully wrote index.php?page=viewproblem2&cpid=968
+Getting contest problem for index.php?page=viewproblem2&cpid=963
+Successfully wrote index.php?page=viewproblem2&cpid=963
+Getting contest problem for index.php?page=viewproblem2&cpid=964
+Successfully wrote index.php?page=viewproblem2&cpid=964
+Getting contest problem for index.php?page=viewproblem2&cpid=965
+Successfully wrote index.php?page=viewproblem2&cpid=965
+========= Getting contest problems for index.php?page=open19results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=948
+Successfully wrote index.php?page=viewproblem2&cpid=948
+Getting contest problem for index.php?page=viewproblem2&cpid=949
+Successfully wrote index.php?page=viewproblem2&cpid=949
+Getting contest problem for index.php?page=viewproblem2&cpid=950
+Successfully wrote index.php?page=viewproblem2&cpid=950
+Getting contest problem for index.php?page=viewproblem2&cpid=945
+Successfully wrote index.php?page=viewproblem2&cpid=945
+Getting contest problem for index.php?page=viewproblem2&cpid=946
+Successfully wrote index.php?page=viewproblem2&cpid=946
+Getting contest problem for index.php?page=viewproblem2&cpid=947
+Successfully wrote index.php?page=viewproblem2&cpid=947
+Getting contest problem for index.php?page=viewproblem2&cpid=942
+Successfully wrote index.php?page=viewproblem2&cpid=942
+Getting contest problem for index.php?page=viewproblem2&cpid=943
+Successfully wrote index.php?page=viewproblem2&cpid=943
+Getting contest problem for index.php?page=viewproblem2&cpid=944
+Successfully wrote index.php?page=viewproblem2&cpid=944
+Getting contest problem for index.php?page=viewproblem2&cpid=939
+Successfully wrote index.php?page=viewproblem2&cpid=939
+Getting contest problem for index.php?page=viewproblem2&cpid=940
+Successfully wrote index.php?page=viewproblem2&cpid=940
+Getting contest problem for index.php?page=viewproblem2&cpid=941
+Successfully wrote index.php?page=viewproblem2&cpid=941
+========= Getting contest problems for index.php?page=feb19results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=924
+Successfully wrote index.php?page=viewproblem2&cpid=924
+Getting contest problem for index.php?page=viewproblem2&cpid=925
+Successfully wrote index.php?page=viewproblem2&cpid=925
+Getting contest problem for index.php?page=viewproblem2&cpid=926
+Successfully wrote index.php?page=viewproblem2&cpid=926
+Getting contest problem for index.php?page=viewproblem2&cpid=921
+Successfully wrote index.php?page=viewproblem2&cpid=921
+Getting contest problem for index.php?page=viewproblem2&cpid=922
+Successfully wrote index.php?page=viewproblem2&cpid=922
+Getting contest problem for index.php?page=viewproblem2&cpid=923
+Successfully wrote index.php?page=viewproblem2&cpid=923
+Getting contest problem for index.php?page=viewproblem2&cpid=918
+Successfully wrote index.php?page=viewproblem2&cpid=918
+Getting contest problem for index.php?page=viewproblem2&cpid=919
+Successfully wrote index.php?page=viewproblem2&cpid=919
+Getting contest problem for index.php?page=viewproblem2&cpid=920
+Successfully wrote index.php?page=viewproblem2&cpid=920
+Getting contest problem for index.php?page=viewproblem2&cpid=915
+Successfully wrote index.php?page=viewproblem2&cpid=915
+Getting contest problem for index.php?page=viewproblem2&cpid=916
+Successfully wrote index.php?page=viewproblem2&cpid=916
+Getting contest problem for index.php?page=viewproblem2&cpid=917
+Successfully wrote index.php?page=viewproblem2&cpid=917
+========= Getting contest problems for index.php?page=jan19results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=900
+Successfully wrote index.php?page=viewproblem2&cpid=900
+Getting contest problem for index.php?page=viewproblem2&cpid=901
+Successfully wrote index.php?page=viewproblem2&cpid=901
+Getting contest problem for index.php?page=viewproblem2&cpid=902
+Successfully wrote index.php?page=viewproblem2&cpid=902
+Getting contest problem for index.php?page=viewproblem2&cpid=897
+Successfully wrote index.php?page=viewproblem2&cpid=897
+Getting contest problem for index.php?page=viewproblem2&cpid=898
+Successfully wrote index.php?page=viewproblem2&cpid=898
+Getting contest problem for index.php?page=viewproblem2&cpid=899
+Successfully wrote index.php?page=viewproblem2&cpid=899
+Getting contest problem for index.php?page=viewproblem2&cpid=894
+Successfully wrote index.php?page=viewproblem2&cpid=894
+Getting contest problem for index.php?page=viewproblem2&cpid=895
+Successfully wrote index.php?page=viewproblem2&cpid=895
+Getting contest problem for index.php?page=viewproblem2&cpid=896
+Successfully wrote index.php?page=viewproblem2&cpid=896
+Getting contest problem for index.php?page=viewproblem2&cpid=891
+Successfully wrote index.php?page=viewproblem2&cpid=891
+Getting contest problem for index.php?page=viewproblem2&cpid=892
+Successfully wrote index.php?page=viewproblem2&cpid=892
+Getting contest problem for index.php?page=viewproblem2&cpid=893
+Successfully wrote index.php?page=viewproblem2&cpid=893
+========= Getting contest problems for index.php?page=dec18results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=864
+Successfully wrote index.php?page=viewproblem2&cpid=864
+Getting contest problem for index.php?page=viewproblem2&cpid=865
+Successfully wrote index.php?page=viewproblem2&cpid=865
+Getting contest problem for index.php?page=viewproblem2&cpid=866
+Successfully wrote index.php?page=viewproblem2&cpid=866
+Getting contest problem for index.php?page=viewproblem2&cpid=861
+Successfully wrote index.php?page=viewproblem2&cpid=861
+Getting contest problem for index.php?page=viewproblem2&cpid=862
+Successfully wrote index.php?page=viewproblem2&cpid=862
+Getting contest problem for index.php?page=viewproblem2&cpid=863
+Successfully wrote index.php?page=viewproblem2&cpid=863
+Getting contest problem for index.php?page=viewproblem2&cpid=858
+Successfully wrote index.php?page=viewproblem2&cpid=858
+Getting contest problem for index.php?page=viewproblem2&cpid=859
+Successfully wrote index.php?page=viewproblem2&cpid=859
+Getting contest problem for index.php?page=viewproblem2&cpid=860
+Successfully wrote index.php?page=viewproblem2&cpid=860
+Getting contest problem for index.php?page=viewproblem2&cpid=855
+Successfully wrote index.php?page=viewproblem2&cpid=855
+Getting contest problem for index.php?page=viewproblem2&cpid=856
+Successfully wrote index.php?page=viewproblem2&cpid=856
+Getting contest problem for index.php?page=viewproblem2&cpid=857
+Successfully wrote index.php?page=viewproblem2&cpid=857
+========= Getting contest problems for index.php?page=open18results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=840
+Successfully wrote index.php?page=viewproblem2&cpid=840
+Getting contest problem for index.php?page=viewproblem2&cpid=841
+Successfully wrote index.php?page=viewproblem2&cpid=841
+Getting contest problem for index.php?page=viewproblem2&cpid=842
+Successfully wrote index.php?page=viewproblem2&cpid=842
+Getting contest problem for index.php?page=viewproblem2&cpid=837
+Successfully wrote index.php?page=viewproblem2&cpid=837
+Getting contest problem for index.php?page=viewproblem2&cpid=838
+Successfully wrote index.php?page=viewproblem2&cpid=838
+Getting contest problem for index.php?page=viewproblem2&cpid=839
+Successfully wrote index.php?page=viewproblem2&cpid=839
+Getting contest problem for index.php?page=viewproblem2&cpid=834
+Successfully wrote index.php?page=viewproblem2&cpid=834
+Getting contest problem for index.php?page=viewproblem2&cpid=835
+Successfully wrote index.php?page=viewproblem2&cpid=835
+Getting contest problem for index.php?page=viewproblem2&cpid=836
+Successfully wrote index.php?page=viewproblem2&cpid=836
+Getting contest problem for index.php?page=viewproblem2&cpid=831
+Successfully wrote index.php?page=viewproblem2&cpid=831
+Getting contest problem for index.php?page=viewproblem2&cpid=832
+Successfully wrote index.php?page=viewproblem2&cpid=832
+Getting contest problem for index.php?page=viewproblem2&cpid=833
+Successfully wrote index.php?page=viewproblem2&cpid=833
+========= Getting contest problems for index.php?page=feb18results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=816
+Successfully wrote index.php?page=viewproblem2&cpid=816
+Getting contest problem for index.php?page=viewproblem2&cpid=817
+Successfully wrote index.php?page=viewproblem2&cpid=817
+Getting contest problem for index.php?page=viewproblem2&cpid=818
+Successfully wrote index.php?page=viewproblem2&cpid=818
+Getting contest problem for index.php?page=viewproblem2&cpid=813
+Successfully wrote index.php?page=viewproblem2&cpid=813
+Getting contest problem for index.php?page=viewproblem2&cpid=814
+Successfully wrote index.php?page=viewproblem2&cpid=814
+Getting contest problem for index.php?page=viewproblem2&cpid=815
+Successfully wrote index.php?page=viewproblem2&cpid=815
+Getting contest problem for index.php?page=viewproblem2&cpid=810
+Successfully wrote index.php?page=viewproblem2&cpid=810
+Getting contest problem for index.php?page=viewproblem2&cpid=811
+Successfully wrote index.php?page=viewproblem2&cpid=811
+Getting contest problem for index.php?page=viewproblem2&cpid=812
+Successfully wrote index.php?page=viewproblem2&cpid=812
+Getting contest problem for index.php?page=viewproblem2&cpid=807
+Successfully wrote index.php?page=viewproblem2&cpid=807
+Getting contest problem for index.php?page=viewproblem2&cpid=808
+Successfully wrote index.php?page=viewproblem2&cpid=808
+Getting contest problem for index.php?page=viewproblem2&cpid=809
+Successfully wrote index.php?page=viewproblem2&cpid=809
+========= Getting contest problems for index.php?page=jan18results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=792
+Successfully wrote index.php?page=viewproblem2&cpid=792
+Getting contest problem for index.php?page=viewproblem2&cpid=793
+Successfully wrote index.php?page=viewproblem2&cpid=793
+Getting contest problem for index.php?page=viewproblem2&cpid=794
+Successfully wrote index.php?page=viewproblem2&cpid=794
+Getting contest problem for index.php?page=viewproblem2&cpid=789
+Successfully wrote index.php?page=viewproblem2&cpid=789
+Getting contest problem for index.php?page=viewproblem2&cpid=790
+Successfully wrote index.php?page=viewproblem2&cpid=790
+Getting contest problem for index.php?page=viewproblem2&cpid=791
+Successfully wrote index.php?page=viewproblem2&cpid=791
+Getting contest problem for index.php?page=viewproblem2&cpid=786
+Successfully wrote index.php?page=viewproblem2&cpid=786
+Getting contest problem for index.php?page=viewproblem2&cpid=787
+Successfully wrote index.php?page=viewproblem2&cpid=787
+Getting contest problem for index.php?page=viewproblem2&cpid=788
+Successfully wrote index.php?page=viewproblem2&cpid=788
+Getting contest problem for index.php?page=viewproblem2&cpid=783
+Successfully wrote index.php?page=viewproblem2&cpid=783
+Getting contest problem for index.php?page=viewproblem2&cpid=784
+Successfully wrote index.php?page=viewproblem2&cpid=784
+Getting contest problem for index.php?page=viewproblem2&cpid=785
+Successfully wrote index.php?page=viewproblem2&cpid=785
+========= Getting contest problems for index.php?page=dec17results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=768
+Successfully wrote index.php?page=viewproblem2&cpid=768
+Getting contest problem for index.php?page=viewproblem2&cpid=769
+Successfully wrote index.php?page=viewproblem2&cpid=769
+Getting contest problem for index.php?page=viewproblem2&cpid=770
+Successfully wrote index.php?page=viewproblem2&cpid=770
+Getting contest problem for index.php?page=viewproblem2&cpid=765
+Successfully wrote index.php?page=viewproblem2&cpid=765
+Getting contest problem for index.php?page=viewproblem2&cpid=766
+Successfully wrote index.php?page=viewproblem2&cpid=766
+Getting contest problem for index.php?page=viewproblem2&cpid=767
+Successfully wrote index.php?page=viewproblem2&cpid=767
+Getting contest problem for index.php?page=viewproblem2&cpid=762
+Successfully wrote index.php?page=viewproblem2&cpid=762
+Getting contest problem for index.php?page=viewproblem2&cpid=763
+Successfully wrote index.php?page=viewproblem2&cpid=763
+Getting contest problem for index.php?page=viewproblem2&cpid=764
+Successfully wrote index.php?page=viewproblem2&cpid=764
+Getting contest problem for index.php?page=viewproblem2&cpid=759
+Successfully wrote index.php?page=viewproblem2&cpid=759
+Getting contest problem for index.php?page=viewproblem2&cpid=760
+Successfully wrote index.php?page=viewproblem2&cpid=760
+Getting contest problem for index.php?page=viewproblem2&cpid=761
+Successfully wrote index.php?page=viewproblem2&cpid=761
+========= Getting contest problems for index.php?page=open17results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=744
+Successfully wrote index.php?page=viewproblem2&cpid=744
+Getting contest problem for index.php?page=viewproblem2&cpid=745
+Successfully wrote index.php?page=viewproblem2&cpid=745
+Getting contest problem for index.php?page=viewproblem2&cpid=746
+Successfully wrote index.php?page=viewproblem2&cpid=746
+Getting contest problem for index.php?page=viewproblem2&cpid=741
+Successfully wrote index.php?page=viewproblem2&cpid=741
+Getting contest problem for index.php?page=viewproblem2&cpid=743
+Successfully wrote index.php?page=viewproblem2&cpid=743
+Getting contest problem for index.php?page=viewproblem2&cpid=738
+Successfully wrote index.php?page=viewproblem2&cpid=738
+Getting contest problem for index.php?page=viewproblem2&cpid=739
+Successfully wrote index.php?page=viewproblem2&cpid=739
+Getting contest problem for index.php?page=viewproblem2&cpid=740
+Successfully wrote index.php?page=viewproblem2&cpid=740
+Getting contest problem for index.php?page=viewproblem2&cpid=735
+Successfully wrote index.php?page=viewproblem2&cpid=735
+Getting contest problem for index.php?page=viewproblem2&cpid=736
+Successfully wrote index.php?page=viewproblem2&cpid=736
+Getting contest problem for index.php?page=viewproblem2&cpid=737
+Successfully wrote index.php?page=viewproblem2&cpid=737
+========= Getting contest problems for index.php?page=feb17results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=720
+Successfully wrote index.php?page=viewproblem2&cpid=720
+Getting contest problem for index.php?page=viewproblem2&cpid=721
+Successfully wrote index.php?page=viewproblem2&cpid=721
+Getting contest problem for index.php?page=viewproblem2&cpid=722
+Successfully wrote index.php?page=viewproblem2&cpid=722
+Getting contest problem for index.php?page=viewproblem2&cpid=717
+Successfully wrote index.php?page=viewproblem2&cpid=717
+Getting contest problem for index.php?page=viewproblem2&cpid=718
+Successfully wrote index.php?page=viewproblem2&cpid=718
+Getting contest problem for index.php?page=viewproblem2&cpid=719
+Successfully wrote index.php?page=viewproblem2&cpid=719
+Getting contest problem for index.php?page=viewproblem2&cpid=714
+Successfully wrote index.php?page=viewproblem2&cpid=714
+Getting contest problem for index.php?page=viewproblem2&cpid=715
+Successfully wrote index.php?page=viewproblem2&cpid=715
+Getting contest problem for index.php?page=viewproblem2&cpid=716
+Successfully wrote index.php?page=viewproblem2&cpid=716
+Getting contest problem for index.php?page=viewproblem2&cpid=711
+Successfully wrote index.php?page=viewproblem2&cpid=711
+Getting contest problem for index.php?page=viewproblem2&cpid=712
+Successfully wrote index.php?page=viewproblem2&cpid=712
+Getting contest problem for index.php?page=viewproblem2&cpid=713
+Successfully wrote index.php?page=viewproblem2&cpid=713
+========= Getting contest problems for index.php?page=jan17results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=696
+Successfully wrote index.php?page=viewproblem2&cpid=696
+Getting contest problem for index.php?page=viewproblem2&cpid=697
+Successfully wrote index.php?page=viewproblem2&cpid=697
+Getting contest problem for index.php?page=viewproblem2&cpid=698
+Successfully wrote index.php?page=viewproblem2&cpid=698
+Getting contest problem for index.php?page=viewproblem2&cpid=693
+Successfully wrote index.php?page=viewproblem2&cpid=693
+Getting contest problem for index.php?page=viewproblem2&cpid=694
+Successfully wrote index.php?page=viewproblem2&cpid=694
+Getting contest problem for index.php?page=viewproblem2&cpid=695
+Successfully wrote index.php?page=viewproblem2&cpid=695
+Getting contest problem for index.php?page=viewproblem2&cpid=690
+Successfully wrote index.php?page=viewproblem2&cpid=690
+Getting contest problem for index.php?page=viewproblem2&cpid=691
+Successfully wrote index.php?page=viewproblem2&cpid=691
+Getting contest problem for index.php?page=viewproblem2&cpid=692
+Successfully wrote index.php?page=viewproblem2&cpid=692
+Getting contest problem for index.php?page=viewproblem2&cpid=687
+Successfully wrote index.php?page=viewproblem2&cpid=687
+Getting contest problem for index.php?page=viewproblem2&cpid=688
+Successfully wrote index.php?page=viewproblem2&cpid=688
+Getting contest problem for index.php?page=viewproblem2&cpid=689
+Successfully wrote index.php?page=viewproblem2&cpid=689
+========= Getting contest problems for index.php?page=dec16results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=672
+Successfully wrote index.php?page=viewproblem2&cpid=672
+Getting contest problem for index.php?page=viewproblem2&cpid=673
+Successfully wrote index.php?page=viewproblem2&cpid=673
+Getting contest problem for index.php?page=viewproblem2&cpid=674
+Successfully wrote index.php?page=viewproblem2&cpid=674
+Getting contest problem for index.php?page=viewproblem2&cpid=669
+Successfully wrote index.php?page=viewproblem2&cpid=669
+Getting contest problem for index.php?page=viewproblem2&cpid=670
+Successfully wrote index.php?page=viewproblem2&cpid=670
+Getting contest problem for index.php?page=viewproblem2&cpid=671
+Successfully wrote index.php?page=viewproblem2&cpid=671
+Getting contest problem for index.php?page=viewproblem2&cpid=666
+Successfully wrote index.php?page=viewproblem2&cpid=666
+Getting contest problem for index.php?page=viewproblem2&cpid=667
+Successfully wrote index.php?page=viewproblem2&cpid=667
+Getting contest problem for index.php?page=viewproblem2&cpid=668
+Successfully wrote index.php?page=viewproblem2&cpid=668
+Getting contest problem for index.php?page=viewproblem2&cpid=663
+Successfully wrote index.php?page=viewproblem2&cpid=663
+Getting contest problem for index.php?page=viewproblem2&cpid=664
+Successfully wrote index.php?page=viewproblem2&cpid=664
+Getting contest problem for index.php?page=viewproblem2&cpid=665
+Successfully wrote index.php?page=viewproblem2&cpid=665
+========= Getting contest problems for index.php?page=open16results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=648
+Successfully wrote index.php?page=viewproblem2&cpid=648
+Getting contest problem for index.php?page=viewproblem2&cpid=649
+Successfully wrote index.php?page=viewproblem2&cpid=649
+Getting contest problem for index.php?page=viewproblem2&cpid=650
+Successfully wrote index.php?page=viewproblem2&cpid=650
+Getting contest problem for index.php?page=viewproblem2&cpid=645
+Successfully wrote index.php?page=viewproblem2&cpid=645
+Getting contest problem for index.php?page=viewproblem2&cpid=646
+Successfully wrote index.php?page=viewproblem2&cpid=646
+Getting contest problem for index.php?page=viewproblem2&cpid=647
+Successfully wrote index.php?page=viewproblem2&cpid=647
+Getting contest problem for index.php?page=viewproblem2&cpid=642
+Successfully wrote index.php?page=viewproblem2&cpid=642
+Getting contest problem for index.php?page=viewproblem2&cpid=643
+Successfully wrote index.php?page=viewproblem2&cpid=643
+Getting contest problem for index.php?page=viewproblem2&cpid=644
+Successfully wrote index.php?page=viewproblem2&cpid=644
+Getting contest problem for index.php?page=viewproblem2&cpid=639
+Successfully wrote index.php?page=viewproblem2&cpid=639
+Getting contest problem for index.php?page=viewproblem2&cpid=640
+Successfully wrote index.php?page=viewproblem2&cpid=640
+Getting contest problem for index.php?page=viewproblem2&cpid=641
+Successfully wrote index.php?page=viewproblem2&cpid=641
+========= Getting contest problems for index.php?page=feb16results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=624
+Successfully wrote index.php?page=viewproblem2&cpid=624
+Getting contest problem for index.php?page=viewproblem2&cpid=625
+Successfully wrote index.php?page=viewproblem2&cpid=625
+Getting contest problem for index.php?page=viewproblem2&cpid=626
+Successfully wrote index.php?page=viewproblem2&cpid=626
+Getting contest problem for index.php?page=viewproblem2&cpid=621
+Successfully wrote index.php?page=viewproblem2&cpid=621
+Getting contest problem for index.php?page=viewproblem2&cpid=622
+Successfully wrote index.php?page=viewproblem2&cpid=622
+Getting contest problem for index.php?page=viewproblem2&cpid=623
+Successfully wrote index.php?page=viewproblem2&cpid=623
+Getting contest problem for index.php?page=viewproblem2&cpid=618
+Successfully wrote index.php?page=viewproblem2&cpid=618
+Getting contest problem for index.php?page=viewproblem2&cpid=619
+Successfully wrote index.php?page=viewproblem2&cpid=619
+Getting contest problem for index.php?page=viewproblem2&cpid=620
+Successfully wrote index.php?page=viewproblem2&cpid=620
+Getting contest problem for index.php?page=viewproblem2&cpid=615
+Successfully wrote index.php?page=viewproblem2&cpid=615
+Getting contest problem for index.php?page=viewproblem2&cpid=616
+Successfully wrote index.php?page=viewproblem2&cpid=616
+Getting contest problem for index.php?page=viewproblem2&cpid=617
+Successfully wrote index.php?page=viewproblem2&cpid=617
+========= Getting contest problems for index.php?page=jan16results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=600
+Successfully wrote index.php?page=viewproblem2&cpid=600
+Getting contest problem for index.php?page=viewproblem2&cpid=601
+Successfully wrote index.php?page=viewproblem2&cpid=601
+Getting contest problem for index.php?page=viewproblem2&cpid=602
+Successfully wrote index.php?page=viewproblem2&cpid=602
+Getting contest problem for index.php?page=viewproblem2&cpid=597
+Successfully wrote index.php?page=viewproblem2&cpid=597
+Getting contest problem for index.php?page=viewproblem2&cpid=598
+Successfully wrote index.php?page=viewproblem2&cpid=598
+Getting contest problem for index.php?page=viewproblem2&cpid=599
+Successfully wrote index.php?page=viewproblem2&cpid=599
+Getting contest problem for index.php?page=viewproblem2&cpid=594
+Successfully wrote index.php?page=viewproblem2&cpid=594
+Getting contest problem for index.php?page=viewproblem2&cpid=595
+Successfully wrote index.php?page=viewproblem2&cpid=595
+Getting contest problem for index.php?page=viewproblem2&cpid=596
+Successfully wrote index.php?page=viewproblem2&cpid=596
+Getting contest problem for index.php?page=viewproblem2&cpid=591
+Successfully wrote index.php?page=viewproblem2&cpid=591
+Getting contest problem for index.php?page=viewproblem2&cpid=592
+Successfully wrote index.php?page=viewproblem2&cpid=592
+Getting contest problem for index.php?page=viewproblem2&cpid=593
+Successfully wrote index.php?page=viewproblem2&cpid=593
+========= Getting contest problems for index.php?page=dec15results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=576
+Successfully wrote index.php?page=viewproblem2&cpid=576
+Getting contest problem for index.php?page=viewproblem2&cpid=577
+Successfully wrote index.php?page=viewproblem2&cpid=577
+Getting contest problem for index.php?page=viewproblem2&cpid=578
+Successfully wrote index.php?page=viewproblem2&cpid=578
+Getting contest problem for index.php?page=viewproblem2&cpid=573
+Successfully wrote index.php?page=viewproblem2&cpid=573
+Getting contest problem for index.php?page=viewproblem2&cpid=574
+Successfully wrote index.php?page=viewproblem2&cpid=574
+Getting contest problem for index.php?page=viewproblem2&cpid=575
+Successfully wrote index.php?page=viewproblem2&cpid=575
+Getting contest problem for index.php?page=viewproblem2&cpid=570
+Successfully wrote index.php?page=viewproblem2&cpid=570
+Getting contest problem for index.php?page=viewproblem2&cpid=571
+Successfully wrote index.php?page=viewproblem2&cpid=571
+Getting contest problem for index.php?page=viewproblem2&cpid=572
+Successfully wrote index.php?page=viewproblem2&cpid=572
+Getting contest problem for index.php?page=viewproblem2&cpid=567
+Successfully wrote index.php?page=viewproblem2&cpid=567
+Getting contest problem for index.php?page=viewproblem2&cpid=568
+Successfully wrote index.php?page=viewproblem2&cpid=568
+Getting contest problem for index.php?page=viewproblem2&cpid=569
+Successfully wrote index.php?page=viewproblem2&cpid=569
+========= Getting contest problems for index.php?page=open15results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=552
+Successfully wrote index.php?page=viewproblem2&cpid=552
+Getting contest problem for index.php?page=viewproblem2&cpid=553
+Successfully wrote index.php?page=viewproblem2&cpid=553
+Getting contest problem for index.php?page=viewproblem2&cpid=554
+Successfully wrote index.php?page=viewproblem2&cpid=554
+Getting contest problem for index.php?page=viewproblem2&cpid=549
+Successfully wrote index.php?page=viewproblem2&cpid=549
+Getting contest problem for index.php?page=viewproblem2&cpid=550
+Successfully wrote index.php?page=viewproblem2&cpid=550
+Getting contest problem for index.php?page=viewproblem2&cpid=551
+Successfully wrote index.php?page=viewproblem2&cpid=551
+Getting contest problem for index.php?page=viewproblem2&cpid=545
+Successfully wrote index.php?page=viewproblem2&cpid=545
+Getting contest problem for index.php?page=viewproblem2&cpid=546
+Successfully wrote index.php?page=viewproblem2&cpid=546
+Getting contest problem for index.php?page=viewproblem2&cpid=547
+Successfully wrote index.php?page=viewproblem2&cpid=547
+Getting contest problem for index.php?page=viewproblem2&cpid=548
+Successfully wrote index.php?page=viewproblem2&cpid=548
+========= Getting contest problems for index.php?page=feb15results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=532
+Successfully wrote index.php?page=viewproblem2&cpid=532
+Getting contest problem for index.php?page=viewproblem2&cpid=533
+Successfully wrote index.php?page=viewproblem2&cpid=533
+Getting contest problem for index.php?page=viewproblem2&cpid=534
+Successfully wrote index.php?page=viewproblem2&cpid=534
+Getting contest problem for index.php?page=viewproblem2&cpid=529
+Successfully wrote index.php?page=viewproblem2&cpid=529
+Getting contest problem for index.php?page=viewproblem2&cpid=530
+Successfully wrote index.php?page=viewproblem2&cpid=530
+Getting contest problem for index.php?page=viewproblem2&cpid=531
+Successfully wrote index.php?page=viewproblem2&cpid=531
+Getting contest problem for index.php?page=viewproblem2&cpid=526
+Successfully wrote index.php?page=viewproblem2&cpid=526
+Getting contest problem for index.php?page=viewproblem2&cpid=527
+Successfully wrote index.php?page=viewproblem2&cpid=527
+Getting contest problem for index.php?page=viewproblem2&cpid=528
+Successfully wrote index.php?page=viewproblem2&cpid=528
+========= Getting contest problems for index.php?page=jan15results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=514
+Successfully wrote index.php?page=viewproblem2&cpid=514
+Getting contest problem for index.php?page=viewproblem2&cpid=515
+Successfully wrote index.php?page=viewproblem2&cpid=515
+Getting contest problem for index.php?page=viewproblem2&cpid=516
+Successfully wrote index.php?page=viewproblem2&cpid=516
+Getting contest problem for index.php?page=viewproblem2&cpid=511
+Successfully wrote index.php?page=viewproblem2&cpid=511
+Getting contest problem for index.php?page=viewproblem2&cpid=512
+Successfully wrote index.php?page=viewproblem2&cpid=512
+Getting contest problem for index.php?page=viewproblem2&cpid=513
+Successfully wrote index.php?page=viewproblem2&cpid=513
+Getting contest problem for index.php?page=viewproblem2&cpid=507
+Successfully wrote index.php?page=viewproblem2&cpid=507
+Getting contest problem for index.php?page=viewproblem2&cpid=508
+Successfully wrote index.php?page=viewproblem2&cpid=508
+Getting contest problem for index.php?page=viewproblem2&cpid=509
+Successfully wrote index.php?page=viewproblem2&cpid=509
+Getting contest problem for index.php?page=viewproblem2&cpid=510
+Successfully wrote index.php?page=viewproblem2&cpid=510
+========= Getting contest problems for index.php?page=dec14results ==========
+Getting contest problem for index.php?page=viewproblem2&cpid=494
+Successfully wrote index.php?page=viewproblem2&cpid=494
+Getting contest problem for index.php?page=viewproblem2&cpid=495
+Successfully wrote index.php?page=viewproblem2&cpid=495
+Getting contest problem for index.php?page=viewproblem2&cpid=496
+Successfully wrote index.php?page=viewproblem2&cpid=496
+Getting contest problem for index.php?page=viewproblem2&cpid=491
+Successfully wrote index.php?page=viewproblem2&cpid=491
+Getting contest problem for index.php?page=viewproblem2&cpid=492
+Successfully wrote index.php?page=viewproblem2&cpid=492
+Getting contest problem for index.php?page=viewproblem2&cpid=493
+Successfully wrote index.php?page=viewproblem2&cpid=493
+Getting contest problem for index.php?page=viewproblem2&cpid=487
+Successfully wrote index.php?page=viewproblem2&cpid=487
+Getting contest problem for index.php?page=viewproblem2&cpid=488
+Successfully wrote index.php?page=viewproblem2&cpid=488
+Getting contest problem for index.php?page=viewproblem2&cpid=489
+Successfully wrote index.php?page=viewproblem2&cpid=489
+Getting contest problem for index.php?page=viewproblem2&cpid=490
+Successfully wrote index.php?page=viewproblem2&cpid=490
+========= Getting contest problems for index.php?page=open14results ==========
+========= Getting contest problems for index.php?page=mar14results ==========
+========= Getting contest problems for index.php?page=feb14results ==========
+========= Getting contest problems for index.php?page=jan14results ==========
+========= Getting contest problems for index.php?page=dec13results ==========
+========= Getting contest problems for index.php?page=nov13results ==========
+========= Getting contest problems for index.php?page=open13results ==========
+========= Getting contest problems for index.php?page=mar13results ==========
+========= Getting contest problems for index.php?page=feb13results ==========
+========= Getting contest problems for index.php?page=jan13results ==========
+========= Getting contest problems for index.php?page=dec12results ==========
+========= Getting contest problems for index.php?page=nov12results ==========
+========= Getting contest problems for index.php?page=open12results ==========
+========= Getting contest problems for index.php?page=mar12results ==========
+========= Getting contest problems for index.php?page=feb12results ==========
+========= Getting contest problems for index.php?page=jan12results ==========
+========= Getting contest problems for index.php?page=dec11results ==========
+========= Getting contest problems for index.php?page=nov11results ==========
+Finished crawling USACO problems
+Total unique problems:  470
