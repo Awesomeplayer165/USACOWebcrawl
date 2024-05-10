@@ -15,7 +15,7 @@ class USACOCrawler:
 
     @staticmethod
     def get_contest_problems(contest_link: str) -> list:
-        print(f"Getting contest problems for {contest_link}")
+        print(f"========= Getting contest problems for {contest_link} ==========")
         website_text = requests.get(f'{base_url}/{contest_link}').text
         soup = BeautifulSoup(website_text, 'html.parser')
         contest_problems = soup.find_all(lambda tag: tag.name == 'a' and tag.get('href').startswith('index.php?page=viewproblem2'))
@@ -57,11 +57,16 @@ class FileHelper:
         with open(self.file_name, 'r') as file:
             return json.loads(file.read()) or {}
 
-# Example Usage: Crawl all problems 2020 <-- 2024 and save to file
+helper = FileHelper("/Users/jacobtrentini/Development/USACOWebcrawl/usaco_problems.json")
+
+# Example Usage: Crawl all years with problems (2015 <-- 2024) and save to file
 for contest in USACOCrawler.get_contest_links():
     for problem_link in USACOCrawler.get_contest_problems(contest):
         problem = USACOCrawler.get_contest_problem(problem_link)
-        FileHelper("/Users/jacobtrentini/Development/USACOWebcrawl/usaco_problems.json").append_problem_to_file(problem, problem_link)
+        helper.append_problem_to_file(problem, problem_link)
+
+print("Finished crawling USACO problems")
+print("Total unique problems: ", len(helper.file_contents))
 
 
 # Crawler Example Usage
