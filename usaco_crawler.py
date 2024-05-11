@@ -57,13 +57,17 @@ class FileHelper:
         with open(self.file_name, 'r') as file:
             return json.loads(file.read()) or {}
 
-helper = FileHelper("/Users/jacobtrentini/Development/USACOWebcrawl/usaco_problems.json")
+def main():
+    helper = FileHelper("/Users/jacobtrentini/Development/USACOWebcrawl/usaco_problems.json")
 
-# Example Usage: Crawl all years with problems (2015 <-- 2024) and save to file
-for contest in USACOCrawler.get_contest_links():
-    for problem_link in USACOCrawler.get_contest_problems(contest):
-        problem = USACOCrawler.get_contest_problem(problem_link)
-        helper.append_problem_to_file(problem, problem_link)
+    # Example Usage: Crawl all years with problems (2015 <-- 2024) and save to file
+    for contest in USACOCrawler.get_contest_links():
+        for problem_link in USACOCrawler.get_contest_problems(contest):
+            problem = USACOCrawler.get_contest_problem(problem_link)
+            helper.append_problem_to_file(problem, problem_link)
 
-print("Finished crawling USACO problems")
-print("Total unique problems: ", len(helper.file_contents))
+    print("Finished crawling USACO problems")
+    print("Total unique problems: ", len(helper.file_contents))
+
+if __name__ == "__main__":
+    main()
