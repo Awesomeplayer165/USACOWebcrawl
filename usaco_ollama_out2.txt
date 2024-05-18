@@ -1,0 +1,729 @@
+Here is the solution to the problem:
+```
+start_minutes = (11 * 60) + 11
+end_minutes = int(str(12)) * 60 * 24 + int(str(13)) * 60 + int(str(14))
+time_spent = end_minutes - start_minutes if end_minutes >= start_minutes else -1
+print(time_spent)
+```
+This code calculates the total number of minutes spent by Bessie in the contest, taking into account the starting and ending times. If the ending time is earlier than the starting time, it sets `time_spent` to `-1`.time generating: 4.986373s
+
+------------------------------------------------
+Here is the Python solution for the problem:
+```
+def digits():
+    b2 = input().strip()
+    b3 = input().strip()
+
+    for i in range(len(b2)):
+        for j in range(len(b3)):
+            n = int('0b' + b2[:i+1] + '0o' + str(int(b3, 3))[j:], 10)
+            if n < 1000000000:
+                return str(n)
+
+print(digits())
+```time generating: 2.913854s
+
+------------------------------------------------
+```
+def moosick():
+    N = int(input())
+    song = list(map(int, input().split()))
+    C = int(input())
+    chord = list(map(int, input().split()))
+
+    ruminant_sevenths = []
+    for i in range(N):
+        if (chord[0] + i) % 88 == song[i]:
+            continue
+        found = True
+        j = 0
+        while j < C:
+            if (chord[j] + i) % 88 != song[i+j]:
+                found = False
+                break
+            j += 1
+        if found:
+            ruminant_sevenths.append(i+1)
+    print(len(ruminant_sevenths))
+    for i in ruminant_sevenths:
+        print(i)
+
+moosick()
+```time generating: 5.651983s
+
+------------------------------------------------
+Here is the Python code to solve this problem:
+```
+N, M = map(int, input().split())
+hide = [list(input()) for _ in range(N)]
+
+def dfs(i, j):
+    if i < 0 or i >= N or j < 0 or j >= M:
+        return
+    if hide[i][j] == '.':
+        return
+    hide[i][j] = '.'
+    dfs(i-1, j)
+    dfs(i+1, j)
+    dfs(i, j-1)
+    dfs(i, j+1)
+
+def merge_spots():
+    count = 0
+    for i in range(N):
+        for j in range(M):
+            if hide[i][j] == 'X':
+                dfs(i, j)
+    for i in range(N):
+        for j in range(M):
+            if hide[i][j] != '.':
+                return (N*M) - 1
+    for i in range(N-1):
+        for j in range(M):
+            if hide[i][j] == 'X' and hide[i+1][j] == 'X':
+                count += 1
+    return N*M - 2 - count
+
+print(merge_spots())
+```time generating: 7.374533s
+
+------------------------------------------------
+Here is the Python solution for the problem:
+
+```python
+def pageant(filename):
+    with open(filename, 'r') as f:
+        N, M = map(int, f.readline().split())
+        hide = [list(line) for line in f.readlines()]
+
+    def dfs(i, j):
+        if i < 0 or i >= N or j < 0 or j >= M:
+            return False
+        if hide[i][j] == '.':
+            return False
+        hide[i][j] = '.'
+        directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+        for d in directions:
+            ni, nj = i + d[0], j + d[1]
+            if dfs(ni, nj):
+                return True
+        return False
+
+    spots = set()
+    for i in range(N):
+        for j in range(M):
+            if hide[i][j] == 'X':
+                if dfs(i, j):
+                    spots.add((i, j))
+
+    new_x_count = 0
+    for spot in list(spots):
+        ni, nj = spot[0], spot[1]
+        directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+        for d in directions:
+            ni, nj = spot[0] + d[0], spot[1] + d[1]
+            if (ni >= 0 and ni < N) and (nj >= 0 and nj < M):
+                if hide[ni][nj] == 'X':
+                    new_x_count += 1
+                    spots.remove((ni, nj))
+                    break
+
+    print(new_x_count)
+```
+
+To use this code, simply replace `filename` with the name of your input file.time generating: 10.195717s
+
+------------------------------------------------
+Here is the Python code for Problem 2: Cow Lineup:
+```
+n = int(input())
+breeds = {}
+max_x = 0
+min_x = float('inf')
+
+for _ in range(n):
+    x, breed_id = map(int, input().split())
+    breeds[breed_id] = max(breeds.get(breed_id, 0), x)
+    min_x = min(min_x, x)
+    max_x = max(max_x, x)
+
+min_cost = float('inf')
+for i in range(len(breeds)):
+    for j in range(i+1, len(breeds)):
+        breed_set = set(breeds.keys())
+        if breeds[i] <= breeds[j]:
+            left, right = breeds[i], breeds[j]
+        else:
+            left, right = breeds[j], breeds[i]
+        
+        while True:
+            breed_set -= {breed_id for x, breed_id in zip(range(left, right+1), range(len(breeds))) if x == breeds[breed_id]}
+            if not breed_set:
+                break
+            min_cost = min(min_cost, right - left + 1)
+
+print(min_cost)
+```time generating: 6.61147s
+
+------------------------------------------------
+```
+python
+```python
+n, m = map(int, input().split())
+a = list(map(int, input().split()))
+a.sort()
+total_area = 0
+cost = 0
+i = 0
+while total_area < m:
+    if i < len(a) - 1 and a[i] * (i + 1) > m - total_area:
+        break
+    total_area += a[i] ** 2
+    cost += (a[i] - (m - total_area) ** .5) ** 2
+    i += 1
+
+print(-1 if total_area < m else cost)
+```time generating: 4.570321s
+
+------------------------------------------------
+Here is the Python solution for the problem:
+```
+n, x = map(int, input().split())
+heights = list(map(int, input().split()))
+count = 0
+for i in range(n):
+    total = 0
+    for j in range(i, n):
+        total += heights[j]
+        if sum(heights[:j+1]) // (j + 1) >= x:
+            count += j - i + 1
+            break
+print(count)
+```
+This code reads the input values `N` and `X`, then iterates over each possible contiguous subsequence of cows. For each subsequence, it calculates the total height and checks if the median is at least `X`. If so, it increments the count by the length of the subsequence. Finally, it prints the total count.time generating: 5.390177s
+
+------------------------------------------------
+Here is the Python solution:
+```
+def min_toggles(board):
+    rows = [list(row) for row in board]
+    cols = [[row[i] for row in board] for i in range(9)]
+    subs = []
+    for i in range(0, 9, 3):
+        sub = [[board[j][i+k//3*3:i+k//3*3+3].count('1') % 2 for k in range(0, 9, 3)] for j in range(i, i+3)]
+        subs.append(sub)
+
+    toggles_needed = set()
+    for row in rows:
+        toggle_set = {i for i, bit in enumerate(row) if int(bit) ^ (1 - (row.count('1') % 2))}
+        toggles_needed &= toggle_set
+    for col in cols:
+        toggle_set = {i for i, bit in enumerate(col) if int(bit) ^ (1 - (col.count('1') % 2))}
+        toggles_needed &= toggle_set
+    for sub in subs:
+        toggle_set = {(i*3 + j) for i in range(3) for j in range(3) if int(sub[i][j]) ^ (1 - (sum(row) % 2))}
+        toggles_needed &= toggle_set
+
+    return len(toggles_needed)
+```time generating: 7.780997s
+
+------------------------------------------------
+```
+python
+def can_build_obstacles(obstacles):
+    x1, y1, x2, y2 = obstacles
+    return (y2 - y1) * 2 > (x2 - x1)
+
+n = int(input())
+obstacles = []
+for _ in range(n):
+    x1, y1, x2, y2 = map(int, input().split())
+    if can_build_obstacles((x1, y1, x2, y2)):
+        obstacles.append((y1, y2))
+
+max_obstacles = 0
+for i in range(len(obstacles) - 1):
+    for j in range(i + 1, len(obstacles)):
+        if (obstacles[i][1] < obstacles[j][0] or 
+            obstacles[i][1] > obstacles[j][1]):
+            max_obstacles += 1
+
+print(max_obstacles)
+```time generating: 6.241722s
+
+------------------------------------------------
+```
+import math
+
+n = int(input())
+heights = list(map(int, input().split() for _ in range(n)))
+height = max(heights)
+diff = sum(abs(h - height) for h in heights)
+
+print(diff)
+```time generating: 2.141342s
+
+------------------------------------------------
+```
+n = int(input())
+
+photos = []
+for _ in range(5):
+    photo = [int(x) for x in input().split()]
+    photos.append(photo)
+
+orders = {1: 0, 2: 1, 3: 2, 4: 3, 5: 4}
+for i, photo in enumerate(photos):
+    for j, cow in enumerate(photo):
+        if cow != (i % n) + 1:
+            orders[cow] = j
+
+result = []
+for k in range(n):
+    result.append(list(orders.keys())[list(orders.values()).index(k)])
+
+print('\n'.join(map(str, result)))
+```time generating: 5.205344s
+
+------------------------------------------------
+```
+python
+N = int(input())
+weights = []
+for i in range(N):
+    weights.append(int(input()))
+
+max_group = 0
+weight_sum = 0
+carries = False
+
+for i in range(1 << N):  # Iterate over all possible combinations of cows
+    group_weight = 0
+    for j in range(N):
+        if (i & (1 << j)):  # Check if the jth cow is in this group
+            group_weight += weights[j]
+    if group_weight <= 100000000:  # Check if the total weight of this group does not exceed 100,000,000
+        while group_weight:
+            carry = group_weight % 10
+            group_weight //= 10
+            if carry > 0:
+                carries = True
+                break
+    if not carries and group_weight >= max_group:
+        max_group = group_weight
+
+print(max_group)
+```time generating: 5.883672s
+
+------------------------------------------------
+```
+n = int(input())
+photos = [list(map(int, input().split())) for _ in range(5)]
+moved_cows = set()
+for photo in photos:
+    moved_cow = None
+    for i in range(n):
+        if i + 1 != photo[i]:
+            moved_cow = i + 1
+            break
+    if moved_cow is not None:
+        moved_cows.add(moved_cow)
+
+a = [0] * n
+for i in range(5):
+    for j in range(n):
+        a[j] = photos[i][j]
+    moved = False
+    for k in range(n):
+        if a[k] != k + 1:
+            a[k], a[moved_cows.pop()] = a[moved_cows.pop()], a[k]
+            moved = True
+    while moved:
+        moved = False
+        for i in range(n - 1):
+            if a[i] > a[i + 1]:
+                a[i], a[i + 1] = a[i + 1], a[i]
+                moved = True
+
+print(*a, sep='\n')
+```time generating: 7.768331s
+
+------------------------------------------------
+```
+```python
+def roadblock():
+    N, M = map(int, input().split())
+    edges = []
+    for _ in range(M):
+        A, B, L = map(int, input().split())
+        edges.append((A, B, L))
+
+    parent = list(range(N+1))
+    rank = [0] * (N+1)
+
+    def find(x):
+        if parent[x] != x:
+            parent[x] = find(parent[x])
+        return parent[x]
+
+    def union(x, y):
+        root_x = find(x)
+        root_y = find(y)
+        if root_x != root_y:
+            if rank[root_x] > rank[root_y]:
+                parent[root_y] = root_x
+            else:
+                parent[root_x] = root_y
+                if rank[root_x] == rank[root_y]:
+                    rank[root_y] += 1
+
+    edges.sort(key=lambda x: x[2])
+
+    total_length = 0
+    for i in range(N-1):
+        A, B, L = edges[i]
+        if find(A) != find(B):
+            union(A, B)
+            total_length += L
+
+    max_increase = 0
+    for edge in edges:
+        A, B, L = edge
+        new_total_length = total_length + 2*L
+        new_path_length = new_total_length - (find(1) != find(N))
+        if new_path_length > max_increase:
+            max_increase = new_path_length
+
+    print(max_increase)
+
+roadblock()
+```time generating: 9.500844s
+
+------------------------------------------------
+Here is the Python code for Problem 3: Umbrellas for Cows:
+```
+m, n = map(int, input().split())
+costs = [0] + [int(input()) for _ in range(m)]
+
+dp = [float('inf')] * (n + 1)
+dp[0] = 0
+
+for i in range(1, n+1):
+    for j in range(i):
+        if costs[j-1] <= i - j:
+            dp[i] = min(dp[i], dp[j-1] + costs[j-1])
+
+print(dp[-1])
+```time generating: 4.689074s
+
+------------------------------------------------
+```
+n = int(input())
+orderings = []
+for i in range(5):
+    orderings.append(list(map(int, input().split())))
+
+# find the initial ordering
+initial_ordering = set(orderings[0])
+ordering = list(initial_ordering)
+for i in range(1, 5):
+    diff = set(orderings[i]) - set(orderings[i-1])
+    if len(diff) > 0:
+        for d in diff:
+            j = orderings[i].index(d)
+            ordering.insert(j, None)
+            ordering.remove(None)
+
+print(*ordering[1:], sep='\n')
+```time generating: 5.129488s
+
+------------------------------------------------
+```
+import sys
+from collections import defaultdict
+
+input = sys.stdin.readline
+output = sys.stdout.write
+
+N, M = map(int, input().split())
+graph = defaultdict(list)
+lengths = {}
+for _ in range(M):
+    a, b, n = map(int, input().split())
+    graph[a].append((b, n))
+    graph[b].append((a, n))
+    lengths[n] = lengths.get(n, 0) + 1
+
+edges = []
+for n in sorted(lengths.keys()):
+    for _ in range(min(3, lengths[n])):
+        edges.append((n, *graph[1][0]))
+
+edge_count = M
+edge_weights = [edge[0] for edge in edges]
+parent = list(range(N))
+rank = [0]*N
+
+def find(x):
+    if parent[x] != x:
+        parent[x] = find(parent[x])
+    return parent[x]
+
+def union(x, y):
+    root_x = find(x)
+    root_y = find(y)
+    if rank[root_x] < rank[root_y]:
+        parent[root_x] = root_y
+    elif rank[root_x] > rank[root_y]:
+        parent[root_y] = root_x
+    else:
+        parent[root_y] = root_x
+        rank[root_x] += 1
+
+edges.sort()
+ans = 0
+for edge in edges:
+    if find(1) != find(edge[1]):
+        union(1, edge[1])
+        ans += edge[0]
+print(ans % 1000000007)
+```
+Note: This code is written in Python.time generating: 9.46472s
+
+------------------------------------------------
+```python
+import heapq
+
+n, m = map(int, input().split())
+graph = [[] for _ in range(n + 1)]
+query_list = []
+
+for i in range(2, n + 1):
+    a, b = map(int, input().split())
+    graph[a].append(b)
+    graph[b].append(a)
+
+for i in range(m):
+    action, a, b = input().split()
+    a, b = int(a), int(b)
+    
+    if action == 'P':
+        for j in range(min(a, b) + 1, max(a, b)):
+            graph[j].append(a)
+            graph[j].append(b)
+            
+    else:
+        query_list.append((a, b))
+
+heap = []
+for i in range(1, n + 1):
+    if not graph[i]:
+        heapq.heappush(heap, (0, i))
+
+ans = [0] * len(query_list)
+
+for i, (a, b) in enumerate(query_list):
+    while heap and heap[0][1] < a:
+        d, u = heapq.heappop(heap)
+        d -= 1
+        if u < a:
+            heapq.heappush(heap, (d, u))
+        else:
+            ans[i] = d
+            break
+
+for i in range(n + 1):
+    while graph[i]:
+        d, v = heapq.heappop(graph[i])
+        for j in range(len(graph[v])):
+            w = graph[v][j]
+            if w > i:
+                graph[w].remove(i)
+                if not graph[w]:
+                    heapq.heappush(heap, (d + 1, w))
+                else:
+                    graph[w].append((d + 1, v))
+
+for i in range(len(ans)):
+    print(ans[i])
+```time generating: 10.383394s
+
+------------------------------------------------
+Here is the Python code for the problem:
+```
+N, B = map(int, input().split())
+total_cost = 0
+gifts_given = 0
+
+for _ in range(N):
+    P, S = map(int, input().split())
+    total_cost += P + S
+
+if B >= total_cost:
+    gifts_given = N
+else:
+    remaining_budget = B - int(B/2)
+    for i in range(N):
+        if remaining_budget < (P(i) + S(i)):
+            break
+        remaining_budget -= P(i) // 2 + S(i)
+
+print(gifts_given)
+```time generating: 4.561654s
+
+------------------------------------------------
+```
+N, K = map(int, input().split())
+stacks = [0] * N
+for _ in range(K):
+    a, b = map(int, input().split())
+    for i in range(a-1, b):
+        stacks[i] += 1
+print(sorted(stacks)[N//2])
+```time generating: 3.302636s
+
+------------------------------------------------
+Here is the Python code for the problem:
+```
+from collections import deque
+
+def grazing(k):
+    grid = [[0]*5 for _ in range(5)]
+    directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+    for i in range(1, k+1, 2):
+        x, y = map(int, input().split())
+        grid[x-1][y-1] = -1
+
+    queue = deque([(1, 1)])
+    visited = set((1, 1))
+    parent = {(1, 1): None}
+
+    while queue:
+        x, y = queue.popleft()
+        if (x, y) == (5, 5):
+            break
+        for dx, dy in directions:
+            nx, ny = x+dx, y+dy
+            if 0 <= nx < 5 and 0 <= ny < 5 and grid[nx][ny] != -1 and (nx, ny) not in visited:
+                queue.append((nx, ny))
+                visited.add((nx, ny))
+                parent[(nx, ny)] = (x, y)
+
+    if (5, 5) not in parent:
+        return 0
+    else:
+        count = 0
+        x, y = (5, 5)
+        while parent[x, y] is not None:
+            count += 1
+            x, y = parent[x, y]
+        return count
+```
+To run this code, you can save it to a file named `grazing.py` and then execute it using Python. For example:
+```
+$ python grazing.py < input.txt > output.txt
+```
+Replace `< input.txt>` with the path to your input file (if it's not named `input.txt`) and replace `> output.txt` with the path where you want to save the output (if it's not named `output.txt`).time generating: 12.742113s
+
+------------------------------------------------
+```
+def distance(x1, y1, x2, y2):
+    return abs(x1 - x2) + abs(y1 - y2)
+
+def delivery(n):
+    farms = []
+    for _ in range(n):
+        x, y = map(int, input().split())
+        farms.append((x, y))
+
+    visited = [[False] * 1000000 for _ in range(1000000)]
+    queue = [(farms[0][0], farms[0][1])]
+    visited[farms[0][0]][farms[0][1]] = True
+
+    total_time = 0
+    current_farm_index = 1
+    while current_farm_index < n:
+        for _ in range(len(queue)):
+            x, y = queue.pop(0)
+            if (x, y) == farms[current_farm_index]:
+                current_farm_index += 1
+                break
+
+        for dx in [-1, 0, 1]:
+            for dy in [-1, 0, 1]:
+                nx, ny = x + dx, y + dy
+                if (nx, ny) == farms[current_farm_index]:
+                    queue.append((nx, ny))
+                    visited[nx][ny] = True
+                    total_time += distance(x, y, nx, ny)
+                    break
+
+    print(total_time - 2 * distance(*farms[0]) if current_farm_index == n else -1)time generating: 8.688621s
+
+------------------------------------------------
+```
+import heapq
+
+N = int(input())
+bales = [int(bale) for _ in range(N)]
+
+heap = []
+for bale in bales:
+    heapq.heappush(heap, -bale)
+
+B1 = 0
+while heap[0] < 0:
+    B1 -= heapq.heappop(heap)
+    if len(heap) > 0 and -heap[0] <= B1:
+        B1 += -heap[0]
+        break
+
+print(B1)
+```time generating: 3.682932s
+
+------------------------------------------------
+```
+```
+
+```python
+import heapq
+
+N = int(input())
+times = [list(map(int, input().split())) for _ in range(N)]
+
+pq = []
+total_time = 0
+
+for time in times:
+    if pq and pq[0][0] <= total_time:
+        up_time, down_time = heapq.heappop(pq)
+        total_time += down_time
+    heapq.heappush(pq, (time[1], time[0]))
+
+while pq:
+    _, down_time = heapq.heappop(pq)
+    total_time += down_time
+
+print(total_time)
+```time generating: 4.356886s
+
+------------------------------------------------
+```
+import sys
+
+def max_points(N, K):
+    dp = [0] * (K + 1)
+    last_combo = {}
+
+    for combo in range(1, N + 1):
+        length = len(S[combo - 1])
+        if S[combo - 1][0] not in last_combo:
+            last_combo[S[combo - 1][0]] = [0, []]
+        last_combo[S[combo - 1][0]][0] = combo
+        for i in range(1, length):
+            if S[combo - 1][i] not in last_combo:
+                last_combo[S[combo - 1][i]] = [0, []]
+            last_combo[S[combo - 1][i]][0] = combo
+
+    for K in range(1, K + 1):
+        for i in range
