@@ -48,9 +48,6 @@ def append_to_json(key, value: dict):
 def read_code():
     with open('/Users/jacobtrentini/Development/USACOWebcrawl/usaco_ollama_out.json', 'r') as file:
         data = json.load(file)
-        for key in data:
-            print(f'Problem {key}:')
-            print(data[key]['code'])
-            print(data[key]['time_gen'])
+        print(len(data))
 #generate_code()
 read_code()
